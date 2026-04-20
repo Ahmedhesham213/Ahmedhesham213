@@ -1,8 +1,7 @@
 # Hey there, I'm [Ahmed Hesham](https://ahmedhesham74.netlify.app/) 👋
 
-**Front End Web Developer · CS Student **
+**Front End Web Developer · CS Student**
 
-💼 **Current:** Front End Engineer at [Quran.Foundation](https://quran.foundation)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
