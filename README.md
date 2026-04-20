@@ -11,7 +11,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in React, Next.js, WordPress, js, and more. <br/>
+I am a Front End skilled in React, Next.js, WordPress, js, and more. <br/>
 I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
 
 
@@ -31,12 +31,6 @@ I have worked on projects that served thousands of users, built scalable applica
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![ollama](https://img.shields.io/badge/ollama-white?logo=ollama&logoColor=black)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
 
 ## 🎯 LeetCode Heatmap
 
