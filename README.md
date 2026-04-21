@@ -107,6 +107,7 @@
 </a>
 
 ## 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=AhmedDabish&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3" alt="GitHub Trophies" />
 
 
 ## 🐍 Contribution Snake
