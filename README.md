@@ -62,7 +62,7 @@
   <table align="center">
     <tr>
        <td align="center" width="80">
-        <a href="https://www.linkedin.com/in/ahmed-hesham74/" target="_blank">
+        <a href="" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
         </a>
       </td>
@@ -77,7 +77,7 @@
         </a>
       </td>
       <td align="center" width="80">
-        <a href="https://t.me/Ahmedheshami74" target="_blank">
+        <a href="https://t.me/@Ahmedheshami74" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/telegram.svg" width="48" height="48" alt="Telegram"/>
         </a>
       </td>       
@@ -87,6 +87,28 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
+
+## 📊 GitHub Stats
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ahmedhesham213&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedhesham213&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedhesham213&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedhesham213&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+## 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=AhmedDabish&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3" alt="GitHub Trophies" />
+
 
 ## 🐍 Contribution Snake
 <p align="center">
